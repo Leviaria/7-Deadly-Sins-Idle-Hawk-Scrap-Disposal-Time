@@ -1,0 +1,4 @@
+loguru
+Pillow
+opencv-python
+numpy
