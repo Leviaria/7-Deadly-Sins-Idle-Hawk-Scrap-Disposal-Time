@@ -17,20 +17,15 @@ A Python bot for automating clicks using template matching and grid detection. T
 
 ## Setup
 
-1. **Clone the repository**:
-   ```bash
-   git github.com/Leviaria/7-Deadly-Sins-Idle-Hawk-Scrap-Disposal-Time.git
-   cd 7-Deadly-Sins-Idle-Hawk-Scrap-Disposal-Time
-   ```
+1. **Clone the repository**
 
 2. **Install dependencies**:
-   Make sure you have `pip` installed, then run:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Configure Bluestacks**:
-   Ensure your Bluestacks emulator is set to the required resolution (720x1280) and DPI (240).
+4. **Configure Bluestacks**:
+Ensure your Bluestacks emulator is set to the required resolution (720x1280) and DPI (240).
 
 ## Usage
 
