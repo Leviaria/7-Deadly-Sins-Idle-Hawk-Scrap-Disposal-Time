@@ -19,8 +19,8 @@ A Python bot for automating clicks using template matching and grid detection. T
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/fruit-clicker-bot.git
-   cd fruit-clicker-bot
+   git github.com/Leviaria/7-Deadly-Sins-Idle-Hawk-Scrap-Disposal-Time.git
+   cd 7-Deadly-Sins-Idle-Hawk-Scrap-Disposal-Time
    ```
 
 2. **Install dependencies**:
